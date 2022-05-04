@@ -1,4 +1,3 @@
-from os import system
 echo
 echo
 apt update
